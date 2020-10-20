@@ -24,3 +24,5 @@ The Circuit when closely observed has following faults:
 ![Alt](https://github.com/Calidad-Healthcare/Pulse-Oximeter-BT/blob/master/Pulse_Oximeter_test/MAX30100_connection.PNG)
 ![Alt](https://github.com/Calidad-Healthcare/Pulse-Oximeter-BT/blob/master/Pulse_Oximeter_test/IMG20200816220549.jpg)
 ![Alt](https://github.com/Calidad-Healthcare/Pulse-Oximeter-BT/blob/master/Pulse_Oximeter_test/IMG20200816220628.jpg)
+
+Kindly go through the details carefully.
